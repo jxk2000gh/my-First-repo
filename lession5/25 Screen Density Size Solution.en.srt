@@ -30,7 +30,7 @@ the Nexus One, has a much higher screen
 
 7
 00:00:19,880 --> 00:00:24,910
-为445dpi，属于超高精度分辨率 。
+为445dpi，属于超高精度分辨率。
 density, 445 dots per inch. That makes it xxhdpi.
  
 
